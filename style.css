@@ -975,13 +975,16 @@ width: 100%;
 
     }
     .home-content h1{
-        font-size: 4.8rem
+        font-size: 4.5rem
     }
     .home-content p{
      
       margin: 2rem 4rem 5rem 3rem;
   
   }
+       .home-content .text-animate h3{
+      font-size: 3.5rem;
+    }
 
   .home-content .btn-box{
     width: 100%;
